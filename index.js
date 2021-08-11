@@ -1371,20 +1371,48 @@ break
 					break
 					
                   default:		
-                  if (budy.includes(`Chabelo`)) {
-                  reply(`*Mira te cuento algo para que tengas flaca si tú no te haces la paja por una semana un mes la testosterona que tienen los hombres se va acomulando poco a poco esa testosterona hace que para las mujeres le parezca más atractivo y tengas más oportunidad de que te hagan caso*`)
+                  if (budy.includes(`abcdefjhijklmnñopqrstuvwxyz`)) {
+                  reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
+		  *(1)Precio:*
+		  *(2)Duración y Horario*
+		  *(3)Requisitos*
+		  *(4)Beneficios y Ventajas*
+		  *(5)¿Por qué elegirnos?*
+		  *(6)Temario de las clases*
+		  *(7)Quiero realizar el pago ya 😀*`)
                   }
                  
-		  if (budy.includes(`bot`)) {
-                  reply(`Mira peruano resentido, por mas que pongan comunistas o terrucos en el poder, nunca saldran adelante ya que son indios conformistas que ni buscan estudiar `)
+		  if (budy.includes(`a`)) {
+                  reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
+		  *(1)Precio:*
+		  *(2)Duración y Horario*
+		  *(3)Requisitos*
+		  *(4)Beneficios y Ventajas*
+		  *(5)¿Por qué elegirnos?*
+		  *(6)Temario de las clases*
+		  *(7)Quiero realizar el pago ya 😀 `)
                   }
                  	
-		  if (budy.includes(`Sebastian`)) {
-                  reply(`Flaca que te.quiere de verdad mano! Sabrá comprenderte! Y sumará a tu vida! No buscará una excusa para complicarte la vida y menos evitará que descuides tu trabajo o estudios! Todo lo contrario! Flaca que te quiere surgirá a tu lado y pensará a futuro! Si no es así mano! Es porque esa flaca no te complementa y si no comparte tu pensamiento! Van en direcciones contrarias! Si hubieran durado más tiempo tal vez te hubiera chocado más lo de la flaca! Fuerzas mano! Tienes buen futuro! Y ya llegará la flaca que realmente sea para ti! Sigue con tu trabajo y estudios! 👍🏻👍🏻`)
+		  if (budy.includes(` `)) {
+                  reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
+		  *(1)Precio:*
+		  *(2)Duración y Horario*
+		  *(3)Requisitos*
+		  *(4)Beneficios y Ventajas*
+		  *(5)¿Por qué elegirnos?*
+		  *(6)Temario de las clases*
+		  *(7)Quiero realizar el pago ya 😀`)
                   }
                  	
-		 if (budy.includes(`Elias`)) {
-                  reply(`marron hijo de puta todo el dia en whatsap causa hablas mas que yo ...ponte a chambear o por ultimo ya ponte a robar que tu cara da pa eso loquito, firme palteas causa,si fuera tu viejo te boto a patadas.. felizmente no soy de cono `)
+		 if (budy.includes(``)) {
+                  reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
+		  *(1)Precio:*
+		  *(2)Duración y Horario*
+		  *(3)Requisitos*
+		  *(4)Beneficios y Ventajas*
+		  *(5)¿Por qué elegirnos?*
+		  *(6)Temario de las clases*
+		  *(7)Quiero realizar el pago ya 😀`)
                   }
 					
 		if (budy.includes(`Ebrain`)) {
