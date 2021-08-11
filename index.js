@@ -1391,7 +1391,8 @@ break
 					
 	if (budy.includes(`2`)) {
                   reply(`El curso dura 12 días, de 8:AM-11:45AM\n\
-		  ¿Algo mas que lo pueda ayudar?\n\
+		  
+	¿Algo mas que lo pueda ayudar?\n\
 			 
 			 A:NO
 			 B:SI
