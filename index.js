@@ -1386,11 +1386,17 @@ break
 					
 	
 	if (budy.includes(`1`)) {
-                  reply(`El precio es de S/130 soles el cual incluye el certificado digital.`)
+                  reply(`El precio es de S/130 soles el cual incluye el certificado digital`)
                   }
 					
 	if (budy.includes(`2`)) {
-                  reply(`El curso dura 12 días, de 8AM-11:45AM`)
+                  reply(`El curso dura 12 días, de 8AM-11:45AM\n\
+		         ¿Algo mas que lo pueda ayudar?\n\
+			 
+			 A:NO
+			 B:SI
+			
+			 responde con “A” o “B” `)
                   }
 					
 	if (budy.includes(`3`)) {
