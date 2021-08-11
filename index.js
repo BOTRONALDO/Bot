@@ -1371,27 +1371,8 @@ break
 					break
 					
                   default:		
-                  if (budy.includes(`abcdefjhijklmnñopqrstuvwxyz`)) {
-                  reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
-		  *(1)Precio:*
-		  *(2)Duración y Horario*
-		  *(3)Requisitos*
-		  *(4)Beneficios y Ventajas*
-		  *(5)¿Por qué elegirnos?*
-		  *(6)Temario de las clases*
-		  *(7)Quiero realizar el pago ya 😀*`)
-                  }
-                 
-		  if (budy.includes(`a`)) {
-                  reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
-		  *(1)Precio:*
-		  *(2)Duración y Horario*
-		  *(3)Requisitos*
-		  *(4)Beneficios y Ventajas*
-		  *(5)¿Por qué elegirnos?*
-		  *(6)Temario de las clases*
-		  *(7)Quiero realizar el pago ya 😀 `)
-                  }
+                  
+	
                  	
 		  if (budy.includes(` `)) {
                   reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
@@ -1415,31 +1396,7 @@ break
 		  *(7)Quiero realizar el pago ya 😀`)
                   }
 					
-		if (budy.includes(`Ebrain`)) {
-                  reply(`arrequipeño apestoso este marron si me da asco esta una,llama es mas vegestorio que el marron de chabelo este csmre si lo tengo enfrente lo escupo`)
-                  }
-                if (budy.includes(`Nena Shey`)) {
-                  reply(`Esta negrita ya tiene su propia musica, solo  los de la olds school lo entenderan
-		  Se dice de mí
-Se dice que soy fea Que parezco un dinosaurio
-Mi nariz es puntiaguda
-La figura no me ayuda
-Y mi boca es un buzón... `)
-                  }
 	
-		 if (budy.includes(`asd`)) {
-                  reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
-		  *(1)Precio:*
-		  *(2)Duración y Horario*
-		  *(3)Requisitos*
-		  *(4)Beneficios y Ventajas*
-		  *(5)¿Por qué elegirnos?*
-		  *(6)Temario de las clases*
-		  *(7)Quiero realizar el pago ya 😀*
-		  `
-		       )
-                  }
-			
 	if (budy.includes(`1`)) {
                   reply(`El precio es de S/130 soles el cual incluye el certificado digital.`)
                   }
