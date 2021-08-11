@@ -1371,19 +1371,7 @@ break
 					break
 					
                   default:		
-                  
-	
-                 	
-		  if (budy.includes(` `)) {
-                  reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
-		  *(1)Precio:*
-		  *(2)Duración y Horario*
-		  *(3)Requisitos*
-		  *(4)Beneficios y Ventajas*
-		  *(5)¿Por qué elegirnos?*
-		  *(6)Temario de las clases*
-		  *(7)Quiero realizar el pago ya 😀`)
-                  }
+                 
                  	
 		 if (budy.includes(``)) {
                   reply(`Hola! 😀 Nos alegra que estés interesado en nuestros cursos de Formación de Agentes de Seguridad. Si tienes dudas respecto a este curso, Debes ingresar el número de opción elegida:\n\nEjemplo:Ejm: tipea '1' si tu duda es sobre el precio 
