@@ -1401,8 +1401,7 @@ break
                   }
 					
 	if (budy.includes(`3`)) {
-                  reply(`Contar con un dispositivo con acceso a internet ejemplo: celular, Tablet, laptop,computadora.
-		  En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)  `)
+                  reply(`Contar con un dispositivo con acceso a internet ejemplo:\n\celular,\n\Tablet,\n\laptop,computadora\n\En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)  `)
                   }
 				
 	if (budy.includes(`4`)) {
