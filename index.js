@@ -1401,15 +1401,15 @@ break
                   }
 					
 	if (budy.includes(`3`)) {
-                  reply(`Contar con un dispositivo con acceso a internet ejemplo:\n\celular,\n\Tablet,\n\laptop,computadora\n\En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)  `)
+                  reply(`Contar con un dispositivo con acceso a internet ejemplo:\n\celular\n\Tablet\n\laptop\n\computadora\n\En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)  `)
                   }
 				
 	if (budy.includes(`4`)) {
                   reply(`Acceso a una plataforma educativa virtual con capacitaciones previas para garantizarque usted tenga el dominio total de esta herramienta.Las clases serán grabadas y subidas a la plataforma web.Contará con un usuario y contraseña personal para realizar los exámenes.Tendrá mayor preferencia en la hora de postular para alguno de las infraestructuras a las cual prestamos servicios.
 		  
-		  Una vez culmine el curso de manera satisfactoria, estará inscrito en el sistema de la SUCAMEC, por lo que cualquier empresa de seguridad del Perú podrá verificar que usted está capacitado para ser Agente de  Seguridad.
+	Una vez culmine el curso de manera satisfactoria, estará inscrito en el sistema de la SUCAMEC, por lo que cualquier empresa de seguridad del Perú podrá verificar que usted está capacitado para ser Agente de  Seguridad.
 		  
-		  Una vez obtenga este certificado podrá continuar con los siguientes trámites para la obtención de licencia de arma. Ya que este curso es obligatorio para cualquier agente que desee obtener licencia de arma`)
+	Una vez obtenga este certificado podrá continuar con los siguientes trámites para la obtención de licencia de arma. Ya que este curso es obligatorio para cualquier agente que desee obtener licencia de arma`)
                   }
 							
 	if (budy.includes(`5`)) {
@@ -1417,23 +1417,12 @@ break
                   }	
 					
 	if (budy.includes(`6`)) {
-                  reply(`-Constitución y Derechos Humanos
-		         -Ética y Seguridad Privada
-			 -Legislación y Seguridad Privada
-			 -Redacción y elaboración de Documentos
-			 -Normas y procedimientos de Seguridad
-			 -Control de Emergencias y Seguridad de Instalaciones
-			 -Atención al Cliente e identificación de Personas
-			 -Defensa Personal
-			 -Conocimiento de Sistemas de Alarmas
-			 -Primeros Auxilios
-			 -Conocimiento y manipulación de Armas
+                  reply(`-Constitución y Derechos Humanos\n\-Ética y Seguridad Privada\n\-Legislación y Seguridad Privada\n\-Redacción y elaboración de Documentos\n\-Normas y procedimientos de Segurida\n\-Control de Emergencias y Seguridad de Instalaciones\n\-Atención al Cliente e identificación de Personas\n\-Defensa Personal\n\-Conocimiento de Sistemas de Alarmas\n\-Primeros Auxilios\n\-Conocimiento y manipulación de Armas
 		          `)
                   }
 					
 	if (budy.includes(`7`)) {
-                  reply(`Enviar el voucher de pago al siguiente número 956988585 
-		  O ingresar al siguiente enlace:http://Wa.me/+51956988585`)
+                  reply(`Enviar el voucher de pago al siguiente número http://Wa.me/+51956988585 `)
                   }
 	
        if (budy.startsWith(`La toca 7w7`)) {
