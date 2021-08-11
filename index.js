@@ -93,7 +93,7 @@ const vcard = 'BEGIN:VCARD\n' // Tarjeta de contacto
             + 'END:VCARD'
 /******FIN DE ENTRADA VCARD******/
 
-prefix = 'participants'
+prefix = 'userId'
 blocked = []
 
 /******CONFIGURACION DE CARGA******/
@@ -253,7 +253,7 @@ async function starts() {
 	client.on('group-participants-update', async (anu) => {
 		if (!welkom.includes(anu.jid)) return
 		try {
-			const mdata = await client.(anu.jid)
+			const mdata = await client.groupMetadata(anu.jid)
 			console.log(anu)
 			if (anu.action == 'add') {
 				num = anu.participants[0]
