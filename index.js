@@ -1430,7 +1430,7 @@ responde con “A” o “B”`)
                   }
 							
 	if (budy.includes(`5`)) {
-                  reply(`*EMPRESA ANTEJO*\n\
+                  reply(`*JL SEGURIDAD*\n\
 La empresa tiene 20 años de fundación en la cual hemos brindado clases virtuales a 850 personas de  las cuales el 95% de ellos ya tienen trabajo como Agente de Seguridad.Esto gracias al prestigio y experiencia que tiene la empresa.\n\
 
 ¿Algo mas que lo pueda ayudar?\n	
@@ -1452,7 +1452,7 @@ responde con “A” o “B”
 					
 	if (budy.includes(`9`)) {
                   reply( `Numero de cuenta para realizar el pago\n\ 
-*https://drive.google.com/file/d/1E2UaFGSGHRkVdHL9nd6XQbIaYlOyNZYe/view*
+*https://drive.google.com/file/d/1jjv6SKzhjFcfkcuLk4G3o5tzVIrS99f0/view*
 Despues de haber realizado el pago enviar el baucher al  siguiente número http://Wa.me/+51956988585\n\ 	  
 ¿Algo mas que lo pueda ayudar?\n 
 *A:No*                    
@@ -1478,8 +1478,8 @@ Despues de haber realizado el pago enviar el baucher al  siguiente número http:
 		  
 if (budy.includes(`7`)) {
                   reply(`*CUENTAS BANCARIAS*\n\
-Numero de cuentas de la empresa *ANTEJO* BBVA CONTINENTAL, INTERBANK, SCOTIABANK...\n\ 	  
-*https://drive.google.com/file/d/1E2UaFGSGHRkVdHL9nd6XQbIaYlOyNZYe/view*
+Numero de cuentas de la empresa *JL SEGURIDAD* BBVA CONTINENTAL, INTERBANK, SCOTIABANK...\n\ 	  
+*https://drive.google.com/file/d/1jjv6SKzhjFcfkcuLk4G3o5tzVIrS99f0/view*
 ¿Algo mas que lo pueda ayudar?\n 
 *A:No*                   
 *B:SI*
