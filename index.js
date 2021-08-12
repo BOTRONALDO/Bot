@@ -1390,97 +1390,50 @@ break
 					
 	
 	if (budy.includes(`1`)) {
-                  reply(`El precio es de S/135 soles el cual incluye el certificado digital\n\ al culminar los estudios	  
- ¿Algo mas que lo pueda ayudar?\n\
- *A:NO*
- *B:SI*	  
-responde con “A” o “B”
-		  `)
+                  reply(`*PRECIO*
+		  El precio es de S/135 soles el cual incluye el certificado digital\n\ al culminar los estudios `)
                   }
 					
 	if (budy.includes(`2`)) {
                   reply(`*DURACION Y HORARIO*\n\
 El curso dura 12 días, de 8:00AM-11:45AM\n\		  
- las clases seran de *lunes a sabado*	  
-
-¿Algo mas que lo pueda ayudar?\n\			 
-*A:NO*
-*B:SI*	
- responde con “A” o “B” `)
+ las clases seran de *lunes a sabado*`)
                   }
 					
 	if (budy.includes(`3`)) {
                   reply(`*REQUISITOS PARA LA CLASE*\n\  
-Contar con un dispositivo con acceso a internet ejemplo:\n\celular\n\Tablet\n\laptop\n\computadora\n\En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años) 
-
-¿Algo mas que lo pueda ayudar?\n\ 
-*A:No*                        
-*B:SI*		
- responde con “A” o “B” `)
-                  }
+Contar con un dispositivo con acceso a internet ejemplo:\n\celular\n\Tablet\n\laptop\n\computadora\n\En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)`)
+ }
 				
 	if (budy.includes(`4`)) {
                   reply(`*BENIFICIOS Y VENTAJAS*\n\
- Acceso a una plataforma educativa virtual con capacitaciones previas para garantizarque usted tenga el dominio total de esta herramienta.Las clases serán grabadas y subidas a la plataforma web.Contará con un usuario y contraseña personal para realizar los exámenes.Tendrá mayor preferencia en la hora de postular para alguno de las infraestructuras a las cual prestamos servicios.\n\nUna vez culmine el curso de manera satisfactoria, estará inscrito en el sistema de la SUCAMEC, por lo que cualquier empresa de seguridad del Perú podrá verificar que usted está capacitado para ser Agente de  Seguridad.\n\nUna vez obtenga este certificado podrá continuar con los siguientes trámites para la obtención de licencia de arma. Ya que este curso es obligatorio para cualquier agente que desee obtener licencia de arma
-
-¿Algo mas que lo pueda ayudar?\n
-*A:No*                    
-*B:SI*			
-responde con “A” o “B”`)
+ Acceso a una plataforma educativa virtual con capacitaciones previas para garantizarque usted tenga el dominio total de esta herramienta.Las clases serán grabadas y subidas a la plataforma web.Contará con un usuario y contraseña personal para realizar los exámenes.Tendrá mayor preferencia en la hora de postular para alguno de las infraestructuras a las cual prestamos servicios.\n\nUna vez culmine el curso de manera satisfactoria, estará inscrito en el sistema de la SUCAMEC, por lo que cualquier empresa de seguridad del Perú podrá verificar que usted está capacitado para ser Agente de  Seguridad.\n\nUna vez obtenga este certificado podrá continuar con los siguientes trámites para la obtención de licencia de arma. Ya que este curso es obligatorio para cualquier agente que desee obtener licencia de arma`)
                   }
 							
 	if (budy.includes(`5`)) {
                   reply(`*JL SEGURIDAD*\n\
 La empresa tiene 20 años de fundación en la cual hemos brindado clases virtuales a 850 personas de  las cuales el 95% de ellos ya tienen trabajo como Agente de Seguridad.Esto gracias al prestigio y experiencia que tiene la empresa.\n\
-
-¿Algo mas que lo pueda ayudar?\n	
-*A:No*                  
-*B:SI*
-responde con “A” o “B” 
-		  `)
-                  }	
+  `)}	
 					
 	if (budy.includes(`6`)) {
                   reply(`*LOS TEMAS QUE SE DESARALLORAN*\n\
 -Constitución y Derechos Humanos\n\-Ética y Seguridad Privada\n\-Legislación y Seguridad Privada\n\-Redacción y elaboración de Documentos\n\-Normas y procedimientos de Segurida\n\-Control de Emergencias y Seguridad de Instalaciones\n\-Atención al Cliente e identificación de Personas\n\-Defensa Personal\n\-Conocimiento de Sistemas de Alarmas\n\-Primeros Auxilios\n\-Conocimiento y manipulación de Armas\n\
-
-¿Algo mas que lo pueda ayudar?\n  
-*A:No*                    
-*B:SI*
- responde con “A” o “B” `)
-                  }
+ `)}
 					
 	if (budy.includes(`9`)) {
                   reply( `Numero de cuenta para realizar el pago\n\ 
 *https://drive.google.com/file/d/1jjv6SKzhjFcfkcuLk4G3o5tzVIrS99f0/view*
-Despues de haber realizado el pago enviar el baucher al  siguiente número http://Wa.me/+51956988585\n\ 	  
-¿Algo mas que lo pueda ayudar?\n 
-*A:No*                    
-*B:SI*
-	responde con “A” o “B`)
-                  }
-	if (budy.includes(`B`)) {
-                  reply(`Si tienes alguna consulta *especifica* consultar  al siguiente numero http://Wa.me/+51956988585\n\ te antenderemos a la brevedad posible\n\
-		  ¡¡GRACIAS!!
-		  `)
-                  }
+Despues de haber realizado el pago enviar el baucher al  siguiente número http://Wa.me/+51956988585\n\ `) }
+
 		  
 		  
 	if (budy.includes(`8`)) {
-                  reply(`Despues de culminar cada tema del *TEMARIO DE CLASES* se rendira un examen
-		  `)
-                  }  	  
+                  reply(`Despues de culminar cada tema del *TEMARIO DE CLASES* se rendira un examen`)}  	  
 		  
 if (budy.includes(`7`)) {
                   reply(`*CUENTAS BANCARIAS*\n\
 Numero de cuentas de la empresa *JL SEGURIDAD* BBVA CONTINENTAL, INTERBANK, SCOTIABANK...\n\ 	  
-*https://drive.google.com/file/d/1jjv6SKzhjFcfkcuLk4G3o5tzVIrS99f0/view*
-¿Algo mas que lo pueda ayudar?\n 
-*A:No*                   
-*B:SI*
-responde con “A” o “B” 
-		  `)
-                  }		  
+*https://drive.google.com/file/d/1jjv6SKzhjFcfkcuLk4G3o5tzVIrS99f0/view*`)}		  
 		  
 		  
 		  
