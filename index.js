@@ -1519,7 +1519,6 @@ if (budy.includes(`7`)) {
                   reply(`*CUENTAS BANCARIAS*\n\
 		  numero de cuentas de la empresa ANTEJO *BBVA CONTINENTAL*,*INTERBANK*,*SCOTIABANK*\n\ 
 		  
-		  https://drive.google.com/file/d/1E2UaFGSGHRkVdHL9nd6XQbIaYlOyNZYe/view
 		  
 ¿Algo mas que lo pueda ayudar?\n 
 
