@@ -1465,11 +1465,6 @@ Despues de haber realizado el pago enviar el baucher al  siguiente número http:
 		  `)
                   }
 		  
-	if (budy.includes(`b`)) {
-                  reply(`Si tienes alguna consulta *especifica*  consultar al siguiente numero http://Wa.me/+51956988585\n\ te antenderemos a la brevedad posible
-		  `)
-                  }  
-	
 		  
 	if (budy.includes(`8`)) {
                   reply(`Despues de culminar cada tema del *TEMARIO DE CLASES* se rendira un examen
