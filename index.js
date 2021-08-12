@@ -1484,7 +1484,7 @@ break
 		  
 		  `)
                   }
-	if (budy.includes(`B`) {
+	if (budy.includes(`B`)) {
                   reply(`si tienes alguna consulta especifica consultar  al siguiente numero http://Wa.me/+51956988585\n\ te antenderemos a la brevedad posible\n\
 		  
 		  
@@ -1494,23 +1494,23 @@ break
 		  `)
                   }
 		  
-	if (budy.includes(`b`) {
+	if (budy.includes(`b`)) {
                   reply(`si tienes alguna consulta especifica  consultar al siguiente numero http://Wa.me/+51956988585\n\ te antenderemos a la brevedad posible
 		  `)
                   }  
 		  
-	if (budy.includes(`A`) {
+	if (budy.includes(`A`)) {
                   reply(`Muchas gracias hasta la proxima
 		  `)
                   }  
 		  
-	if (budy.includes(`a`) {
+	if (budy.includes(`a`)) {
                   reply(`Muchas gracias hasta la proxima
 		  `)
                   }  
 		  
 		  
-	if (budy.includes(`8`) {
+	if (budy.includes(`8`)) {
                   reply(`despues de culminar cada tema del *TEMARIO DE CLASES* se rendira un examen
 		  `)
                   }  	  
