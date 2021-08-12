@@ -1451,7 +1451,9 @@ responde con “A” o “B”
                   }
 					
 	if (budy.includes(`9`)) {
-                  reply(`Despues de haber realizado el pago enviar el baucher al  siguiente número http://Wa.me/+51956988585\n\		  
+                  reply( `Numero de cuenta para realizar el pago\n\ 
+*https://drive.google.com/file/d/1E2UaFGSGHRkVdHL9nd6XQbIaYlOyNZYe/view*
+Despues de haber realizado el pago enviar el baucher al  siguiente número http://Wa.me/+51956988585\n\ 	  
 ¿Algo mas que lo pueda ayudar?\n 
 *A:No*                    
 *B:SI*
@@ -1467,17 +1469,7 @@ responde con “A” o “B”
                   reply(`Si tienes alguna consulta *especifica*  consultar al siguiente numero http://Wa.me/+51956988585\n\ te antenderemos a la brevedad posible
 		  `)
                   }  
-		  
-	if (budy.includes(`A`)) {
-                  reply(`Muchas gracias hasta la proxima
-		  `)
-                  }  
-		  
-	if (budy.includes(`a`)) {
-                  reply(`Muchas gracias hasta la proxima
-		  `)
-                  }  
-		  
+	
 		  
 	if (budy.includes(`8`)) {
                   reply(`Despues de culminar cada tema del *TEMARIO DE CLASES* se rendira un examen
