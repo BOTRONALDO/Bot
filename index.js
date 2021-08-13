@@ -1391,13 +1391,13 @@ break
 	
 	if (budy.includes(`1`)) {
                   reply(`*PRECIO*
-		  El precio es de S/135 soles el cual incluye el certificado digital\n\ al culminar los estudios `)
+El precio es de S/135 soles el cual incluye el certificado digital\n\ al culminar los estudios `)
                   }
 					
 	if (budy.includes(`2`)) {
                   reply(`*DURACION Y HORARIO*\n\
-El curso dura 12 días, de 8:00AM-11:45AM\n\		  
- las clases seran de *lunes a sabado*`)
+ las clases comienzan este *18 de AGOSTO* El curso tiene una  duracion de  12 días, de 8:00AM-11:45AM\n\		  
+ las clases seran de *lunes a sabado* por la plataforma MEET/ZOOM`)
                   }
 					
 	if (budy.includes(`3`)) {
