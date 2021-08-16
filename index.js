@@ -1431,9 +1431,7 @@ Despues de haber realizado el pago enviar el baucher al  siguiente número http:
                   reply(`Despues de culminar cada tema del *TEMARIO DE CLASES* se rendira un examen`)}  	  
 		  
 if (budy.includes(`7`)) {
-                  reply(`*CUENTAS BANCARIAS*\n\
-Numero de cuentas de la empresa *JL SEGURIDAD* BBVA CONTINENTAL, INTERBANK, SCOTIABANK...\n\ 	  
-*https://drive.google.com/file/d/1jjv6SKzhjFcfkcuLk4G3o5tzVIrS99f0/view*`)}		  
+                  reply(`*El numero de atención(llamadas) es 956988585 es\n\Srta.Raquel`)}		  
 		  
 		  
 		  
