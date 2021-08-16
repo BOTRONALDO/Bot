@@ -1381,7 +1381,7 @@ break
 		  *(4)Beneficios y Ventajas*
 		  *(5)¿Por qué elegirnos?*
 		  *(6)Temario de las clases*
-		  *(7)Número celular de la Asesora de Ventas-LLamada telefónica 
+		  *(7)Número celular de la Asesora de Ventas-LLamada telefónica*
 		  *(8)Examenes*
 		  *(9)Quiero realizar el pago ya 😀*
 	
@@ -1431,7 +1431,7 @@ Despues de haber realizado el pago enviar el baucher al  siguiente número http:
                   reply(`Despues de culminar cada tema del *TEMARIO DE CLASES* se rendira un examen`)}  	  
 		  
 if (budy.includes(`7`)) {
-                  reply(`El numero de atención*(llamadas)* es 956988585 la Srta.Raquel`)}		  
+                  reply(`El numero de atención(*llamadas*) es 956988585 la Srta.Raquel`)}		  
 		  
 		  
 		  
