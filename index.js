@@ -1348,7 +1348,7 @@ break
 						}
 						break
                                 case 'ping':    
-			   	        if (!isUser) return reply(mess.only.userB)
+			   	   Se     if (!isUser) return reply(mess.only.userB)
                                         const timestamp = speed();
                                         const latensi = speed() - timestamp
                                         client.updatePresence(from, Presence.composing) 
@@ -1396,7 +1396,7 @@ El precio es de S/135 soles el cual incluye el certificado digital\n\ al culmina
 					
 	if (budy.includes(`2`)) {
                   reply(`*DURACION Y HORARIO*\n\
- las clases comienzan este *19 de AGOSTO* El curso tiene una  duracion de  12 días, de 8:00AM-11:45AM\n\		  
+ las clases comienzan este *17 de septiembre * El curso tiene una  duracion de  12 días, de 8:00AM-11:45AM\n\		  
  las clases seran de *lunes a sabado* por la plataforma MEET/ZOOM`)
                   }
 					
