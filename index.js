@@ -1396,7 +1396,7 @@ El precio es de S/135 soles el cual incluye el certificado digital\n\ al culmina
 					
 	if (budy.includes(`2`)) {
                   reply(`*DURACION Y HORARIO*\n\
- las clases comienzan este *17 de septiembre * El curso tiene una  duracion de  12 días, de 8:00AM-11:45AM\n\		  
+ las clases comienzan este *17 de septiembre* El curso tiene una  duracion de  12 días, de 8:00AM-11:45AM\n\		  
  las clases seran de *lunes a sabado* por la plataforma MEET/ZOOM`)
                   }
 					
