@@ -1402,8 +1402,7 @@ El precio es de S/135 soles el cual incluye el certificado digital\n\ al culmina
 					
 	if (budy.includes(`3`)) {
                   reply(`*REQUISITOS PARA LA CLASE*\n\  
-Contar con un dispositivo con acceso a internet ejemplo:\n\celular\n\Tablet\n\laptop\n\computadora\n\En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)`)
- }
+Contar con un dispositivo con acceso a internet ejemplo:\n\celular\n\Tablet\n\laptop\n\computadora\n\En caso usara una computadora, esta debe tener una cámara y audífono externos.En caso use celular, Tablet o laptop estas tienen cámara, micrófono y audífono incorporados. Por lo que no deberá preocupase en comprar más.Tener mayoría de edad (mínimo 18 años)`}
 				
 	if (budy.includes(`4`)) {
                   reply(`*BENIFICIOS Y VENTAJAS*\n\
